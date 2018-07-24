@@ -38,7 +38,7 @@ const styles = {
     marginLeft: -12,
     marginRight: 20,
   },
-  copyRight:{
+  copyRight: {
     position: 'fixed',
     color: 'wheat',
     bottom: 0,
